@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"create":true,"owner":"vagrant","group":"vagrant","mount_options":["dmode=777,fmode=755"],"guestpath":"/var/www/html","hostpath":"D:/","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/training_day13","disabled":false}}}
