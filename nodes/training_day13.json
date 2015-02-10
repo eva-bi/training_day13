@@ -1,6 +1,6 @@
 {
   "run_list": [
-	"recipe[apache2]"
+	"recipe[base]"
   ],
   "automatic": {
     "ipaddress": "training_day13"
